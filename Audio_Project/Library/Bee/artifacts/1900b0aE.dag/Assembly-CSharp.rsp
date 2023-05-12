@@ -355,6 +355,7 @@
 "Assets/Imported_Packages/LowPolyWater_Pack/Scripts/LowPolyWater.cs"
 "Assets/SlimeScript.cs"
 "Assets/Thor.cs"
+"Assets/TriggerSfx.cs"
 "Assets/TurtleScript.cs"
 -langversion:9.0
 
